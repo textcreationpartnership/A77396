@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe and exact treatise declaring how the sheriffs, and all other the great officers of this kingdome have been anciently elected and chosen. Also how farr the Kings prerogative, and the priviledges of Parliament, did extend in their election. With some other matters of great consequence, touching the fundamentall lawes of this land, most necessary for these times. Collected and proved out of divers statues and records, now in force</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77396</idno>
+            <idno type="STC">Wing B4527</idno>
+            <idno type="STC">Thomason E130_8</idno>
+            <idno type="STC">ESTC R22210</idno>
+            <idno type="EEBO-CITATION">99871661</idno>
+            <idno type="PROQUEST">99871661</idno>
+            <idno type="VID">156300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156300)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe and exact treatise declaring how the sheriffs, and all other the great officers of this kingdome have been anciently elected and chosen. Also how farr the Kings prerogative, and the priviledges of Parliament, did extend in their election. With some other matters of great consequence, touching the fundamentall lawes of this land, most necessary for these times. Collected and proved out of divers statues and records, now in force</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term>Local elections --  England --  Early works to 1800.</term>
+               <term>Peace officers --  England --  Selection and appointment --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156300:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> BRIEFE AND EXACT TREATISE <hi>DECLARING</hi> How the Sheriffs, and all other the great Officers of this KINGDOME have been Anciently elected and choſen.</p>
+            <p>Alſo how farr the KINGS Prerogative, and the Priviledges of PARLIAMENT, did extend in their election.</p>
+            <p>With ſome other matters of great Conſe<g ref="char:EOLhyphen"/>quence, touching the Fundamentall Lawes of this Land, moſt neceſſary for theſe times.</p>
+            <p>Collected and proved out of divers Statutes and Re<g ref="char:EOLhyphen"/>cords, now in force</p>
+            <p>
+               <add>Decemb. 13.</add> London, Printed for T. I. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156300:2"/>
+            <pb n="3" facs="tcp:156300:2"/>
+            <head>A Briefe and exact Treatiſe, declaring how the Sheriffs and all other the great Officers of this Kingdome have been anciently elected and choſen.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Conceive that by the ancient frame and conſtitution of this Kingdome, all Officers were choſen by the peo<g ref="char:EOLhyphen"/>ple, over whom they had Juriſdicti<g ref="char:EOLhyphen"/>on; and that they had ſuch to govern them, as they moſt confided in; And an Office is but a truſt committed to certaine Perſons, for their orderly &amp; peaceable government, &amp; ſecur<g ref="char:EOLhyphen"/>ing them in their perſons and eſtates from vio<g ref="char:EOLhyphen"/>lence and wrong, as appeareth by the enſuing particulars.</p>
+            <p n="1">1. Officers of a Tithing, as (anciently) of ten families, were choſen, by the Inhabitants of the Tithing only, and by no other; and was by them preſented (as their pledge and ruler) unto the Leete to be ſworne, to the due execution of his office within his Tithing.</p>
+            <pb n="4" facs="tcp:156300:3"/>
+            <p> Conſtables were in former times (as yet are in moſt places) choſen by the perſons over whom he was to excerciſe his Juriſdiction, whether it were of a particular Towne, or Pariſh, and they preſented him to the hundred Court, or Leete, where he was ſworn to execute his Office, with<g ref="char:EOLhyphen"/>in the precincte of his Juriſdiction.</p>
+            <p>The Coronner was and is an office whoſe Ju<g ref="char:EOLhyphen"/>riſdiction was of a larger extent, for it extendeth over the whole County; and therefore he is choſen by the Freeholders of the County, and ſworne in the County Court, upon a Writt <hi>de coronatore eligendo. Fitz. nat. br.</hi>
+            </p>
+            <p>The Sheriffe alſo being an Officer of the Coun<g ref="char:EOLhyphen"/>ty, was in former times alſo choſen in the Coun<g ref="char:EOLhyphen"/>ty Court, as appeareth by <hi>Lambert</hi> in his Saxon Lawes <hi>Fol.</hi> 136. and <hi>Stat.</hi> 28. <hi>Ed.</hi> 1. <hi>Cap.</hi> 8.13. and afterwards taken from them, and given to the King, by <hi>Stat.</hi> 9. <hi>Ed.</hi> 2.</p>
+            <p>There was alſo in former times other Officers choſen in every County, by the people of the County, to ſee the great Charter of 9. <hi>H.</hi> 3. duely obſerved, and to puniſh ſuch as went againſt the ſame in any point, as appeares by <hi>Stat.</hi> 28. <hi>Ed.</hi> 1. <hi>Cap.</hi> 1. who were alſo to enquire of, and puniſh
+<pb n="5" facs="tcp:156300:3"/>ſuch, as offended againſt <hi>Stat.</hi> of <hi>Winch. An.</hi> 13. <hi>Ed.</hi> 1. as appeares by <hi>Stat.</hi> 28. <hi>Ed.</hi> 1. <hi>Cap.</hi> 17.</p>
+            <p>The Lievetenant of every County in former times known by the name of Heretoch, who had the <hi>Militia</hi> of the County committed to his charge. This Officer alſo was choſen by the Inhabitants of the County (or as ſome conceive by the Parli<g ref="char:EOLhyphen"/>ament) as appeares in <hi>Lamb.</hi> Saxon Lawes <hi>Fol.</hi> 136.</p>
+            <p>Mayors and Bayliffs of Towns Corporate, are choſen by their Corporations, and ſo continue to this day.</p>
+            <p>Knights. of the Parliament are choſen by the Freeholders of the County for whom they ſerve, <hi>Stat.</hi> 7. <hi>H.</hi> 4. <hi>Cap.</hi> 15. <hi>Stat.</hi> 1. <hi>H.</hi> 5. <hi>Cap.</hi> 1. <hi>Stat.</hi> 8. <hi>H.</hi> 6. <hi>Cap.</hi> 7. <hi>Stat.</hi> 10. <hi>H.</hi> 6.2.</p>
+            <p>It ſeemes alſo that the great Officers of the Kingdome, whoſe Juriſdiction extended over the whole Realme, were under the ſame rule, as the Lord Chancellor, who hath the cuſtody of the great Seale of England (being the publike Faith of the Kingdome) and being an Officer o<g ref="char:EOLhyphen"/>ver the whole Realme, was in former times cho<g ref="char:EOLhyphen"/>ſen in Parliament. <hi>Lamb. Archdion. pag.</hi> 48. <hi>Daniels Chronicl; page</hi> 139. 148. 195. The life of <hi>H.</hi> 3. <hi>page.</hi> 22.</p>
+            <p>The chiefe Juſtice being a publicke Officer,
+<pb n="6" facs="tcp:156300:4"/>unto whom the Juſtice of the whole Kingdom, in matters cryminall was committed of truſt, was alſo choſen by the Parliament, as appeares by the places before quoted.</p>
+            <p>The Lord Admirall, to whoſe care the defence of the Kingdome by Sea was committed, was in ancient times choſen in Parliament, as is expreſſ<g ref="char:EOLhyphen"/>ed in the Parliament of <hi>Rich.</hi> 2. and <hi>Seldens mare clauſaum page</hi> 169. 186. 188. compared with <hi>Lambb.</hi> Saxon Lawes; <hi>Foll.</hi> 136.</p>
+            <p>The Lord Treaſurer, to whom the Treaſure of the Kingdome was committed, was alſo choſen in Parl. <hi>L. Ar. page</hi> 48. <hi>Dan. Chr. page</hi> 139. 195.</p>
+            <p>The Captaine of <hi>Callis, Rich.</hi> Earle of <hi>Warwicke</hi> in time of <hi>H.</hi> 6. refuſed to give up his Captain<g ref="char:EOLhyphen"/>ſhip of <hi>Callis</hi> unto the KING, being required, be<g ref="char:EOLhyphen"/>cauſe (as he ſaith) he received the ſame in Parl. and was to reſign it to them againe. <hi>Cowells</hi> inter<g ref="char:EOLhyphen"/>preter, in the word Parliament.</p>
+            <p>Anno 15. <hi>Ed.</hi> 3. the KING was Petitioned in Parl. that the high Officers of the Kingdom might (as in former times) be elected in Parl. to which the KING yeelded, that they ſhould be ſworn in Parl. <hi>Dan. Chr. page</hi> 195. ſee the Petitioners of Parl. <hi>de anno</hi> 15. <hi>Ed.</hi> 3.</p>
+            <pb n="7" facs="tcp:156300:4"/>
+            <p>The King himſelfe cannot give away his King<g ref="char:EOLhyphen"/>dome, becauſe of the Intereſt which the Subjects hath in it, as vvas reſolved in KING <hi>Iohns</hi> caſe, <hi>Da<g ref="char:EOLhyphen"/>vies</hi> Reports <hi>fol.</hi> 94. <hi>Rot.</hi> Parliament. 40. <hi>Ed.</hi> 3.11.7.8. neither could he give avvay his title to Scotland, though not in his actuall poſſeſsion, as vvas reſolved 1. <hi>H.</hi> 7. <hi>fol.</hi> 10.</p>
+            <p>The KING canot by vvill give avvay the goods of the Crown, in caſe he makes executors by his Will, but ſhall remaine to the Crown, and go to his Succeſſors. <hi>Cooke lib.</hi> 11. <hi>fol.</hi> 91.92. Neither can the KING Iſſue his treaſure without warrant un<g ref="char:EOLhyphen"/>der the great ſeale, or privy ſeale; <hi>Cooke lib.</hi> 11. <hi>fol.</hi> 91. <hi>Br. prerogative</hi> 5.35. <hi>H.</hi> 6.25. The KING cannot releaſe the fealty of his Subjects 8. <hi>H.</hi> 7. <hi>fol.</hi> 12.13.</p>
+            <p>The KING cannot grant away his prerogative, as to give power to another to pardon Fellons, be<g ref="char:EOLhyphen"/>cauſe of the truſt between him and the Subject, 20. <hi>H.</hi> 7. <hi>fel.</hi> 6. or to make a Juſtice of Record, or to make Denizens <hi>Ibid.</hi>
+            </p>
+            <p>The KING cannot pardon a common Nu<g ref="char:EOLhyphen"/>ſance, becauſe of the Intereſt of the people, <hi>Br.</hi> Nuſance 15. 11. <hi>H.</hi> 7. <hi>fol.</hi> 20. 35. <hi>H.</hi> 6. <hi>fol.</hi> 29. <hi>b.</hi>
+            </p>
+            <p>There is a league between the KING and his
+<pb n="8" facs="tcp:156300:5"/>Subjects, 20. <hi>H.</hi> 7. <hi>fol.</hi> 8. The KING cannot arreſt a man, upon ſuſpition of Felony or Treaſon, becauſe the party cannot have his action againſt him for it, <hi>Br. prerogative</hi> 139. 1. <hi>H.</hi> 7. <hi>fol.</hi> 4. 22. <hi>H.</hi> 1. 6. <hi>fol.</hi> 46. <hi>p. Newton.</hi>
+            </p>
+            <p>The KING cannot diſpence with a Stat<g ref="char:EOLhyphen"/>tute which doth ordaine Law, 8. <hi>H.</hi> 6. <hi>fol.</hi> 21. <hi>Cooks</hi> inſtitutes <hi>fol.</hi> 120.234.</p>
+            <p>If the KING command a thing not warrant<g ref="char:EOLhyphen"/>able, it is as if they had no command; <hi>Dyer.</hi> 13. <hi>Eliz. fol.</hi> 297. <hi>Dyer fol.</hi> 175. <hi>pl.</hi> 26. <hi>ſnaggs</hi> caſe.</p>
+            <p>The KING cannot by his Charter, Oute the common people of their Rights of Inheritance, which they have in the common Law; Stat. 27. H. 8. <hi>Cap.</hi> 26. 19. <hi>H.</hi> 6. <hi>fol.</hi> 63. <hi>Plod. Com.</hi> 55.120. <hi>b.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
